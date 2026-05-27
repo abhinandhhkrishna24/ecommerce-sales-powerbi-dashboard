@@ -1,6 +1,6 @@
-![Sales Performance Overview](screenshots/ss1.png)
-![Sales Performance Overview](screenshots/ss1.png)
-![Sales Performance Overview](screenshots/ss1.png)
+![Sales Performance Overview](Screenshots/ss1.png)
+![Sales Performance Overview](Screenshots/ss2.png)
+![Sales Performance Overview](Screenshots/ss3.png)
 # E-Commerce Sales & Fulfillment Dashboard | Power BI
 
 ## Project Overview
